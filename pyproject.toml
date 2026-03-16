@@ -1,0 +1,16 @@
+[project]
+name = "emfs"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.12"
+dependencies = [
+    "jupyter>=1.1.1",
+    "lifelines>=0.30.0",
+    "lxml>=6.0.2",
+    "matplotlib>=3.10.8",
+    "openpyxl>=3.1.5",
+    "pandas>=3.0.1",
+    "seaborn>=0.13.2",
+    "statsmodels>=0.14.6",
+    "xlrd>=2.0.2",
+]

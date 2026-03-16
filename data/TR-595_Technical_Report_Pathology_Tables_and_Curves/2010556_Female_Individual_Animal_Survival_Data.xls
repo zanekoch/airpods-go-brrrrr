@@ -1,0 +1,3839 @@
+
+<html >
+	<head>
+		<style>
+		td, caption, th {
+			border-top:    .1pt solid windowtext;
+			border-right:  .1pt solid windowtext;
+			border-bottom: .1pt solid windowtext;
+			border-left:   .1pt solid windowtext;
+		}
+
+		table.dataTable td {
+			text-align: left;
+		}
+
+		td.xtext{
+			mso-number-format:'\@';/*force text in excel*/
+		}
+
+		</style>
+	</head>
+	<body>
+		<p>
+			<strong>
+				If this is the first time you are viewing this file, please choose 'Save As' from the 'File' menu
+				and resave this file as an Excel file type. This will greatly speed up future viewings of this file.
+			</strong>
+		</p>
+		 
+        <h1>
+            Long-Term Study
+            Survival Data
+        </h1>
+    
+	<h2>Study Information:</h2>
+	<table>
+		<tr><th scope="row" align="left">Chemical Name:</th> <td>Cell Phone Radiation: CDMA</td></tr>
+		<tr><th scope="row" align="left">CASRN:</th> <td>="CELLPRADCDMA"</td></tr>
+		<tr><th scope="row" align="left">Study Number:</th> <td>C20105B</td></tr>
+        
+		<tr><th scope="row" align="left">Exposure Route:</th> <td>Whole Body Exposure</td></tr>
+		<tr><th scope="row" align="left">TDMS Number:</th> <td>2010556</td></tr>
+		<tr><th scope="row" align="left">Sex:</th> <td>Female</td></tr>
+		<tr><th scope="row" align="left">Strain and Species:</th> <td> HSD Rats</td></tr>
+	</table>
+	<br/>
+
+	<center>
+		Female HSD Rats Detailed Survival Data
+	</center>
+	<table>
+		<thead>
+			<tr>
+				<th>Animal Number</th>
+				<th>Cage Number</th>
+				<th>Days on Study</th>
+				<th>Treatment</th>
+				<th>Removal Reason</th>
+				<th>Week of Removal</th>
+			</tr>
+		</thead>
+		<tbody>
+			
+				<tr>
+					<td>606</td>
+					<td>606</td>
+					<td>93</td>
+					<td>Vehicle Control</td>
+					<td>Scheduled Sacrifice</td>
+					<td>14</td>
+				</tr>
+			
+				<tr>
+					<td>607</td>
+					<td>607</td>
+					<td>550</td>
+					<td>Vehicle Control</td>
+					<td>Moribund Sacrifice</td>
+					<td>79</td>
+				</tr>
+			
+				<tr>
+					<td>608</td>
+					<td>608</td>
+					<td>662</td>
+					<td>Vehicle Control</td>
+					<td>Moribund Sacrifice</td>
+					<td>95</td>
+				</tr>
+			
+				<tr>
+					<td>609</td>
+					<td>609</td>
+					<td>739</td>
+					<td>Vehicle Control</td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>610</td>
+					<td>610</td>
+					<td>738</td>
+					<td>Vehicle Control</td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>611</td>
+					<td>611</td>
+					<td>740</td>
+					<td>Vehicle Control</td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>612</td>
+					<td>612</td>
+					<td>93</td>
+					<td>Vehicle Control</td>
+					<td>Scheduled Sacrifice</td>
+					<td>14</td>
+				</tr>
+			
+				<tr>
+					<td>613</td>
+					<td>613</td>
+					<td>493</td>
+					<td>Vehicle Control</td>
+					<td>Moribund Sacrifice</td>
+					<td>71</td>
+				</tr>
+			
+				<tr>
+					<td>614</td>
+					<td>614</td>
+					<td>745</td>
+					<td>Vehicle Control</td>
+					<td>Terminal Sacrifice</td>
+					<td>107</td>
+				</tr>
+			
+				<tr>
+					<td>615</td>
+					<td>615</td>
+					<td>660</td>
+					<td>Vehicle Control</td>
+					<td>Moribund Sacrifice</td>
+					<td>95</td>
+				</tr>
+			
+				<tr>
+					<td>616</td>
+					<td>616</td>
+					<td>268</td>
+					<td>Vehicle Control</td>
+					<td>Moribund Sacrifice</td>
+					<td>39</td>
+				</tr>
+			
+				<tr>
+					<td>617</td>
+					<td>617</td>
+					<td>96</td>
+					<td>Vehicle Control</td>
+					<td>Scheduled Sacrifice</td>
+					<td>14</td>
+				</tr>
+			
+				<tr>
+					<td>618</td>
+					<td>618</td>
+					<td>741</td>
+					<td>Vehicle Control</td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>619</td>
+					<td>619</td>
+					<td>508</td>
+					<td>Vehicle Control</td>
+					<td>Natural Death</td>
+					<td>73</td>
+				</tr>
+			
+				<tr>
+					<td>620</td>
+					<td>620</td>
+					<td>93</td>
+					<td>Vehicle Control</td>
+					<td>Scheduled Sacrifice</td>
+					<td>14</td>
+				</tr>
+			
+				<tr>
+					<td>621</td>
+					<td>621</td>
+					<td>744</td>
+					<td>Vehicle Control</td>
+					<td>Terminal Sacrifice</td>
+					<td>107</td>
+				</tr>
+			
+				<tr>
+					<td>622</td>
+					<td>622</td>
+					<td>745</td>
+					<td>Vehicle Control</td>
+					<td>Terminal Sacrifice</td>
+					<td>107</td>
+				</tr>
+			
+				<tr>
+					<td>623</td>
+					<td>623</td>
+					<td>712</td>
+					<td>Vehicle Control</td>
+					<td>Natural Death</td>
+					<td>102</td>
+				</tr>
+			
+				<tr>
+					<td>624</td>
+					<td>624</td>
+					<td>565</td>
+					<td>Vehicle Control</td>
+					<td>Moribund Sacrifice</td>
+					<td>81</td>
+				</tr>
+			
+				<tr>
+					<td>625</td>
+					<td>625</td>
+					<td>622</td>
+					<td>Vehicle Control</td>
+					<td>Moribund Sacrifice</td>
+					<td>89</td>
+				</tr>
+			
+				<tr>
+					<td>626</td>
+					<td>626</td>
+					<td>578</td>
+					<td>Vehicle Control</td>
+					<td>Moribund Sacrifice</td>
+					<td>83</td>
+				</tr>
+			
+				<tr>
+					<td>627</td>
+					<td>627</td>
+					<td>531</td>
+					<td>Vehicle Control</td>
+					<td>Moribund Sacrifice</td>
+					<td>76</td>
+				</tr>
+			
+				<tr>
+					<td>628</td>
+					<td>628</td>
+					<td>711</td>
+					<td>Vehicle Control</td>
+					<td>Natural Death</td>
+					<td>102</td>
+				</tr>
+			
+				<tr>
+					<td>629</td>
+					<td>629</td>
+					<td>738</td>
+					<td>Vehicle Control</td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>630</td>
+					<td>630</td>
+					<td>719</td>
+					<td>Vehicle Control</td>
+					<td>Moribund Sacrifice</td>
+					<td>103</td>
+				</tr>
+			
+				<tr>
+					<td>631</td>
+					<td>631</td>
+					<td>464</td>
+					<td>Vehicle Control</td>
+					<td>Moribund Sacrifice</td>
+					<td>67</td>
+				</tr>
+			
+				<tr>
+					<td>632</td>
+					<td>632</td>
+					<td>738</td>
+					<td>Vehicle Control</td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>633</td>
+					<td>633</td>
+					<td>737</td>
+					<td>Vehicle Control</td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>634</td>
+					<td>634</td>
+					<td>547</td>
+					<td>Vehicle Control</td>
+					<td>Natural Death</td>
+					<td>79</td>
+				</tr>
+			
+				<tr>
+					<td>635</td>
+					<td>635</td>
+					<td>737</td>
+					<td>Vehicle Control</td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>636</td>
+					<td>636</td>
+					<td>738</td>
+					<td>Vehicle Control</td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>637</td>
+					<td>637</td>
+					<td>489</td>
+					<td>Vehicle Control</td>
+					<td>Moribund Sacrifice</td>
+					<td>70</td>
+				</tr>
+			
+				<tr>
+					<td>638</td>
+					<td>638</td>
+					<td>96</td>
+					<td>Vehicle Control</td>
+					<td>Scheduled Sacrifice</td>
+					<td>14</td>
+				</tr>
+			
+				<tr>
+					<td>639</td>
+					<td>639</td>
+					<td>741</td>
+					<td>Vehicle Control</td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>640</td>
+					<td>640</td>
+					<td>96</td>
+					<td>Vehicle Control</td>
+					<td>Scheduled Sacrifice</td>
+					<td>14</td>
+				</tr>
+			
+				<tr>
+					<td>641</td>
+					<td>641</td>
+					<td>614</td>
+					<td>Vehicle Control</td>
+					<td>Moribund Sacrifice</td>
+					<td>88</td>
+				</tr>
+			
+				<tr>
+					<td>642</td>
+					<td>642</td>
+					<td>464</td>
+					<td>Vehicle Control</td>
+					<td>Moribund Sacrifice</td>
+					<td>67</td>
+				</tr>
+			
+				<tr>
+					<td>643</td>
+					<td>643</td>
+					<td>656</td>
+					<td>Vehicle Control</td>
+					<td>Moribund Sacrifice</td>
+					<td>94</td>
+				</tr>
+			
+				<tr>
+					<td>644</td>
+					<td>644</td>
+					<td>741</td>
+					<td>Vehicle Control</td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>645</td>
+					<td>645</td>
+					<td>744</td>
+					<td>Vehicle Control</td>
+					<td>Terminal Sacrifice</td>
+					<td>107</td>
+				</tr>
+			
+				<tr>
+					<td>646</td>
+					<td>646</td>
+					<td>740</td>
+					<td>Vehicle Control</td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>647</td>
+					<td>647</td>
+					<td>709</td>
+					<td>Vehicle Control</td>
+					<td>Natural Death</td>
+					<td>102</td>
+				</tr>
+			
+				<tr>
+					<td>648</td>
+					<td>648</td>
+					<td>641</td>
+					<td>Vehicle Control</td>
+					<td>Natural Death</td>
+					<td>92</td>
+				</tr>
+			
+				<tr>
+					<td>649</td>
+					<td>649</td>
+					<td>741</td>
+					<td>Vehicle Control</td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>650</td>
+					<td>650</td>
+					<td>93</td>
+					<td>Vehicle Control</td>
+					<td>Scheduled Sacrifice</td>
+					<td>14</td>
+				</tr>
+			
+				<tr>
+					<td>651</td>
+					<td>651</td>
+					<td>741</td>
+					<td>Vehicle Control</td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>652</td>
+					<td>652</td>
+					<td>550</td>
+					<td>Vehicle Control</td>
+					<td>Moribund Sacrifice</td>
+					<td>79</td>
+				</tr>
+			
+				<tr>
+					<td>653</td>
+					<td>653</td>
+					<td>690</td>
+					<td>Vehicle Control</td>
+					<td>Natural Death</td>
+					<td>99</td>
+				</tr>
+			
+				<tr>
+					<td>654</td>
+					<td>654</td>
+					<td>745</td>
+					<td>Vehicle Control</td>
+					<td>Terminal Sacrifice</td>
+					<td>107</td>
+				</tr>
+			
+				<tr>
+					<td>655</td>
+					<td>655</td>
+					<td>741</td>
+					<td>Vehicle Control</td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>656</td>
+					<td>656</td>
+					<td>738</td>
+					<td>Vehicle Control</td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>657</td>
+					<td>657</td>
+					<td>531</td>
+					<td>Vehicle Control</td>
+					<td>Moribund Sacrifice</td>
+					<td>76</td>
+				</tr>
+			
+				<tr>
+					<td>658</td>
+					<td>658</td>
+					<td>740</td>
+					<td>Vehicle Control</td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>659</td>
+					<td>659</td>
+					<td>740</td>
+					<td>Vehicle Control</td>
+					<td>Moribund Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>660</td>
+					<td>660</td>
+					<td>744</td>
+					<td>Vehicle Control</td>
+					<td>Terminal Sacrifice</td>
+					<td>107</td>
+				</tr>
+			
+				<tr>
+					<td>661</td>
+					<td>661</td>
+					<td>202</td>
+					<td>Vehicle Control</td>
+					<td>Accidentally Killed</td>
+					<td>29</td>
+				</tr>
+			
+				<tr>
+					<td>662</td>
+					<td>662</td>
+					<td>96</td>
+					<td>Vehicle Control</td>
+					<td>Scheduled Sacrifice</td>
+					<td>14</td>
+				</tr>
+			
+				<tr>
+					<td>663</td>
+					<td>663</td>
+					<td>739</td>
+					<td>Vehicle Control</td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>664</td>
+					<td>664</td>
+					<td>353</td>
+					<td>Vehicle Control</td>
+					<td>Moribund Sacrifice</td>
+					<td>51</td>
+				</tr>
+			
+				<tr>
+					<td>665</td>
+					<td>665</td>
+					<td>662</td>
+					<td>Vehicle Control</td>
+					<td>Moribund Sacrifice</td>
+					<td>95</td>
+				</tr>
+			
+				<tr>
+					<td>666</td>
+					<td>666</td>
+					<td>531</td>
+					<td>Vehicle Control</td>
+					<td>Moribund Sacrifice</td>
+					<td>76</td>
+				</tr>
+			
+				<tr>
+					<td>667</td>
+					<td>667</td>
+					<td>93</td>
+					<td>Vehicle Control</td>
+					<td>Scheduled Sacrifice</td>
+					<td>14</td>
+				</tr>
+			
+				<tr>
+					<td>668</td>
+					<td>668</td>
+					<td>744</td>
+					<td>Vehicle Control</td>
+					<td>Terminal Sacrifice</td>
+					<td>107</td>
+				</tr>
+			
+				<tr>
+					<td>669</td>
+					<td>669</td>
+					<td>740</td>
+					<td>Vehicle Control</td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>670</td>
+					<td>670</td>
+					<td>737</td>
+					<td>Vehicle Control</td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>671</td>
+					<td>671</td>
+					<td>662</td>
+					<td>Vehicle Control</td>
+					<td>Moribund Sacrifice</td>
+					<td>95</td>
+				</tr>
+			
+				<tr>
+					<td>672</td>
+					<td>672</td>
+					<td>492</td>
+					<td>Vehicle Control</td>
+					<td>Moribund Sacrifice</td>
+					<td>71</td>
+				</tr>
+			
+				<tr>
+					<td>673</td>
+					<td>673</td>
+					<td>93</td>
+					<td>Vehicle Control</td>
+					<td>Scheduled Sacrifice</td>
+					<td>14</td>
+				</tr>
+			
+				<tr>
+					<td>674</td>
+					<td>674</td>
+					<td>634</td>
+					<td>Vehicle Control</td>
+					<td>Moribund Sacrifice</td>
+					<td>91</td>
+				</tr>
+			
+				<tr>
+					<td>675</td>
+					<td>675</td>
+					<td>744</td>
+					<td>Vehicle Control</td>
+					<td>Terminal Sacrifice</td>
+					<td>107</td>
+				</tr>
+			
+				<tr>
+					<td>676</td>
+					<td>676</td>
+					<td>93</td>
+					<td>Vehicle Control</td>
+					<td>Scheduled Sacrifice</td>
+					<td>14</td>
+				</tr>
+			
+				<tr>
+					<td>677</td>
+					<td>677</td>
+					<td>741</td>
+					<td>Vehicle Control</td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>678</td>
+					<td>678</td>
+					<td>739</td>
+					<td>Vehicle Control</td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>679</td>
+					<td>679</td>
+					<td>744</td>
+					<td>Vehicle Control</td>
+					<td>Terminal Sacrifice</td>
+					<td>107</td>
+				</tr>
+			
+				<tr>
+					<td>680</td>
+					<td>680</td>
+					<td>744</td>
+					<td>Vehicle Control</td>
+					<td>Terminal Sacrifice</td>
+					<td>107</td>
+				</tr>
+			
+				<tr>
+					<td>681</td>
+					<td>681</td>
+					<td>740</td>
+					<td>Vehicle Control</td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>682</td>
+					<td>682</td>
+					<td>93</td>
+					<td>Vehicle Control</td>
+					<td>Scheduled Sacrifice</td>
+					<td>14</td>
+				</tr>
+			
+				<tr>
+					<td>683</td>
+					<td>683</td>
+					<td>739</td>
+					<td>Vehicle Control</td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>684</td>
+					<td>684</td>
+					<td>524</td>
+					<td>Vehicle Control</td>
+					<td>Moribund Sacrifice</td>
+					<td>75</td>
+				</tr>
+			
+				<tr>
+					<td>685</td>
+					<td>685</td>
+					<td>93</td>
+					<td>Vehicle Control</td>
+					<td>Scheduled Sacrifice</td>
+					<td>14</td>
+				</tr>
+			
+				<tr>
+					<td>686</td>
+					<td>686</td>
+					<td>737</td>
+					<td>Vehicle Control</td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>687</td>
+					<td>687</td>
+					<td>739</td>
+					<td>Vehicle Control</td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>688</td>
+					<td>688</td>
+					<td>608</td>
+					<td>Vehicle Control</td>
+					<td>Moribund Sacrifice</td>
+					<td>87</td>
+				</tr>
+			
+				<tr>
+					<td>689</td>
+					<td>689</td>
+					<td>513</td>
+					<td>Vehicle Control</td>
+					<td>Natural Death</td>
+					<td>74</td>
+				</tr>
+			
+				<tr>
+					<td>690</td>
+					<td>690</td>
+					<td>622</td>
+					<td>Vehicle Control</td>
+					<td>Moribund Sacrifice</td>
+					<td>89</td>
+				</tr>
+			
+				<tr>
+					<td>691</td>
+					<td>691</td>
+					<td>740</td>
+					<td>Vehicle Control</td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>692</td>
+					<td>692</td>
+					<td>741</td>
+					<td>Vehicle Control</td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>693</td>
+					<td>693</td>
+					<td>744</td>
+					<td>Vehicle Control</td>
+					<td>Terminal Sacrifice</td>
+					<td>107</td>
+				</tr>
+			
+				<tr>
+					<td>694</td>
+					<td>694</td>
+					<td>739</td>
+					<td>Vehicle Control</td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>695</td>
+					<td>695</td>
+					<td>668</td>
+					<td>Vehicle Control</td>
+					<td>Natural Death</td>
+					<td>96</td>
+				</tr>
+			
+				<tr>
+					<td>696</td>
+					<td>696</td>
+					<td>740</td>
+					<td>Vehicle Control</td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>697</td>
+					<td>697</td>
+					<td>489</td>
+					<td>Vehicle Control</td>
+					<td>Moribund Sacrifice</td>
+					<td>70</td>
+				</tr>
+			
+				<tr>
+					<td>698</td>
+					<td>698</td>
+					<td>739</td>
+					<td>Vehicle Control</td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>699</td>
+					<td>699</td>
+					<td>707</td>
+					<td>Vehicle Control</td>
+					<td>Natural Death</td>
+					<td>101</td>
+				</tr>
+			
+				<tr>
+					<td>700</td>
+					<td>700</td>
+					<td>93</td>
+					<td>Vehicle Control</td>
+					<td>Scheduled Sacrifice</td>
+					<td>14</td>
+				</tr>
+			
+				<tr>
+					<td>701</td>
+					<td>701</td>
+					<td>492</td>
+					<td>Vehicle Control</td>
+					<td>Moribund Sacrifice</td>
+					<td>71</td>
+				</tr>
+			
+				<tr>
+					<td>702</td>
+					<td>702</td>
+					<td>96</td>
+					<td>Vehicle Control</td>
+					<td>Scheduled Sacrifice</td>
+					<td>14</td>
+				</tr>
+			
+				<tr>
+					<td>703</td>
+					<td>703</td>
+					<td>636</td>
+					<td>Vehicle Control</td>
+					<td>Moribund Sacrifice</td>
+					<td>91</td>
+				</tr>
+			
+				<tr>
+					<td>704</td>
+					<td>704</td>
+					<td>737</td>
+					<td>Vehicle Control</td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>705</td>
+					<td>705</td>
+					<td>739</td>
+					<td>Vehicle Control</td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>706</td>
+					<td>706</td>
+					<td>550</td>
+					<td>Vehicle Control</td>
+					<td>Moribund Sacrifice</td>
+					<td>79</td>
+				</tr>
+			
+				<tr>
+					<td>707</td>
+					<td>707</td>
+					<td>738</td>
+					<td>Vehicle Control</td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>708</td>
+					<td>708</td>
+					<td>740</td>
+					<td>Vehicle Control</td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>709</td>
+					<td>709</td>
+					<td>738</td>
+					<td>Vehicle Control</td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>710</td>
+					<td>710</td>
+					<td>629</td>
+					<td>Vehicle Control</td>
+					<td>Natural Death</td>
+					<td>90</td>
+				</tr>
+			
+				<tr>
+					<td>1446</td>
+					<td>1446</td>
+					<td>714</td>
+					<td>1.5 </td>
+					<td>Natural Death</td>
+					<td>102</td>
+				</tr>
+			
+				<tr>
+					<td>1447</td>
+					<td>1447</td>
+					<td>739</td>
+					<td>1.5 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1448</td>
+					<td>1448</td>
+					<td>723</td>
+					<td>1.5 </td>
+					<td>Moribund Sacrifice</td>
+					<td>104</td>
+				</tr>
+			
+				<tr>
+					<td>1449</td>
+					<td>1449</td>
+					<td>740</td>
+					<td>1.5 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1450</td>
+					<td>1450</td>
+					<td>741</td>
+					<td>1.5 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1451</td>
+					<td>1451</td>
+					<td>696</td>
+					<td>1.5 </td>
+					<td>Natural Death</td>
+					<td>100</td>
+				</tr>
+			
+				<tr>
+					<td>1452</td>
+					<td>1452</td>
+					<td>739</td>
+					<td>1.5 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1453</td>
+					<td>1453</td>
+					<td>738</td>
+					<td>1.5 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1454</td>
+					<td>1454</td>
+					<td>739</td>
+					<td>1.5 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1455</td>
+					<td>1455</td>
+					<td>740</td>
+					<td>1.5 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1456</td>
+					<td>1456</td>
+					<td>493</td>
+					<td>1.5 </td>
+					<td>Moribund Sacrifice</td>
+					<td>71</td>
+				</tr>
+			
+				<tr>
+					<td>1457</td>
+					<td>1457</td>
+					<td>741</td>
+					<td>1.5 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1458</td>
+					<td>1458</td>
+					<td>675</td>
+					<td>1.5 </td>
+					<td>Moribund Sacrifice</td>
+					<td>97</td>
+				</tr>
+			
+				<tr>
+					<td>1459</td>
+					<td>1459</td>
+					<td>300</td>
+					<td>1.5 </td>
+					<td>Moribund Sacrifice</td>
+					<td>43</td>
+				</tr>
+			
+				<tr>
+					<td>1460</td>
+					<td>1460</td>
+					<td>741</td>
+					<td>1.5 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1461</td>
+					<td>1461</td>
+					<td>740</td>
+					<td>1.5 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1462</td>
+					<td>1462</td>
+					<td>744</td>
+					<td>1.5 </td>
+					<td>Terminal Sacrifice</td>
+					<td>107</td>
+				</tr>
+			
+				<tr>
+					<td>1463</td>
+					<td>1463</td>
+					<td>737</td>
+					<td>1.5 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1464</td>
+					<td>1464</td>
+					<td>96</td>
+					<td>1.5 </td>
+					<td>Scheduled Sacrifice</td>
+					<td>14</td>
+				</tr>
+			
+				<tr>
+					<td>1465</td>
+					<td>1465</td>
+					<td>739</td>
+					<td>1.5 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1466</td>
+					<td>1466</td>
+					<td>578</td>
+					<td>1.5 </td>
+					<td>Moribund Sacrifice</td>
+					<td>83</td>
+				</tr>
+			
+				<tr>
+					<td>1467</td>
+					<td>1467</td>
+					<td>579</td>
+					<td>1.5 </td>
+					<td>Moribund Sacrifice</td>
+					<td>83</td>
+				</tr>
+			
+				<tr>
+					<td>1468</td>
+					<td>1468</td>
+					<td>738</td>
+					<td>1.5 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1469</td>
+					<td>1469</td>
+					<td>711</td>
+					<td>1.5 </td>
+					<td>Moribund Sacrifice</td>
+					<td>102</td>
+				</tr>
+			
+				<tr>
+					<td>1470</td>
+					<td>1470</td>
+					<td>738</td>
+					<td>1.5 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1471</td>
+					<td>1471</td>
+					<td>739</td>
+					<td>1.5 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1472</td>
+					<td>1472</td>
+					<td>96</td>
+					<td>1.5 </td>
+					<td>Scheduled Sacrifice</td>
+					<td>14</td>
+				</tr>
+			
+				<tr>
+					<td>1473</td>
+					<td>1473</td>
+					<td>737</td>
+					<td>1.5 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1474</td>
+					<td>1474</td>
+					<td>738</td>
+					<td>1.5 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1475</td>
+					<td>1475</td>
+					<td>674</td>
+					<td>1.5 </td>
+					<td>Moribund Sacrifice</td>
+					<td>97</td>
+				</tr>
+			
+				<tr>
+					<td>1476</td>
+					<td>1476</td>
+					<td>696</td>
+					<td>1.5 </td>
+					<td>Natural Death</td>
+					<td>100</td>
+				</tr>
+			
+				<tr>
+					<td>1477</td>
+					<td>1477</td>
+					<td>741</td>
+					<td>1.5 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1478</td>
+					<td>1478</td>
+					<td>738</td>
+					<td>1.5 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1479</td>
+					<td>1479</td>
+					<td>738</td>
+					<td>1.5 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1480</td>
+					<td>1480</td>
+					<td>649</td>
+					<td>1.5 </td>
+					<td>Natural Death</td>
+					<td>93</td>
+				</tr>
+			
+				<tr>
+					<td>1481</td>
+					<td>1481</td>
+					<td>741</td>
+					<td>1.5 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1482</td>
+					<td>1482</td>
+					<td>339</td>
+					<td>1.5 </td>
+					<td>Moribund Sacrifice</td>
+					<td>49</td>
+				</tr>
+			
+				<tr>
+					<td>1483</td>
+					<td>1483</td>
+					<td>740</td>
+					<td>1.5 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1484</td>
+					<td>1484</td>
+					<td>93</td>
+					<td>1.5 </td>
+					<td>Scheduled Sacrifice</td>
+					<td>14</td>
+				</tr>
+			
+				<tr>
+					<td>1485</td>
+					<td>1485</td>
+					<td>739</td>
+					<td>1.5 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1486</td>
+					<td>1486</td>
+					<td>614</td>
+					<td>1.5 </td>
+					<td>Moribund Sacrifice</td>
+					<td>88</td>
+				</tr>
+			
+				<tr>
+					<td>1487</td>
+					<td>1487</td>
+					<td>657</td>
+					<td>1.5 </td>
+					<td>Natural Death</td>
+					<td>94</td>
+				</tr>
+			
+				<tr>
+					<td>1488</td>
+					<td>1488</td>
+					<td>93</td>
+					<td>1.5 </td>
+					<td>Scheduled Sacrifice</td>
+					<td>14</td>
+				</tr>
+			
+				<tr>
+					<td>1489</td>
+					<td>1489</td>
+					<td>741</td>
+					<td>1.5 </td>
+					<td>Moribund Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1490</td>
+					<td>1490</td>
+					<td>614</td>
+					<td>1.5 </td>
+					<td>Moribund Sacrifice</td>
+					<td>88</td>
+				</tr>
+			
+				<tr>
+					<td>1491</td>
+					<td>1491</td>
+					<td>570</td>
+					<td>1.5 </td>
+					<td>Moribund Sacrifice</td>
+					<td>82</td>
+				</tr>
+			
+				<tr>
+					<td>1492</td>
+					<td>1492</td>
+					<td>744</td>
+					<td>1.5 </td>
+					<td>Terminal Sacrifice</td>
+					<td>107</td>
+				</tr>
+			
+				<tr>
+					<td>1493</td>
+					<td>1493</td>
+					<td>605</td>
+					<td>1.5 </td>
+					<td>Moribund Sacrifice</td>
+					<td>87</td>
+				</tr>
+			
+				<tr>
+					<td>1494</td>
+					<td>1494</td>
+					<td>647</td>
+					<td>1.5 </td>
+					<td>Natural Death</td>
+					<td>93</td>
+				</tr>
+			
+				<tr>
+					<td>1495</td>
+					<td>1495</td>
+					<td>724</td>
+					<td>1.5 </td>
+					<td>Moribund Sacrifice</td>
+					<td>104</td>
+				</tr>
+			
+				<tr>
+					<td>1496</td>
+					<td>1496</td>
+					<td>740</td>
+					<td>1.5 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1497</td>
+					<td>1497</td>
+					<td>612</td>
+					<td>1.5 </td>
+					<td>Moribund Sacrifice</td>
+					<td>88</td>
+				</tr>
+			
+				<tr>
+					<td>1498</td>
+					<td>1498</td>
+					<td>93</td>
+					<td>1.5 </td>
+					<td>Scheduled Sacrifice</td>
+					<td>14</td>
+				</tr>
+			
+				<tr>
+					<td>1499</td>
+					<td>1499</td>
+					<td>737</td>
+					<td>1.5 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1500</td>
+					<td>1500</td>
+					<td>93</td>
+					<td>1.5 </td>
+					<td>Scheduled Sacrifice</td>
+					<td>14</td>
+				</tr>
+			
+				<tr>
+					<td>1501</td>
+					<td>1501</td>
+					<td>738</td>
+					<td>1.5 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1502</td>
+					<td>1502</td>
+					<td>96</td>
+					<td>1.5 </td>
+					<td>Scheduled Sacrifice</td>
+					<td>14</td>
+				</tr>
+			
+				<tr>
+					<td>1503</td>
+					<td>1503</td>
+					<td>93</td>
+					<td>1.5 </td>
+					<td>Scheduled Sacrifice</td>
+					<td>14</td>
+				</tr>
+			
+				<tr>
+					<td>1504</td>
+					<td>1504</td>
+					<td>729</td>
+					<td>1.5 </td>
+					<td>Natural Death</td>
+					<td>105</td>
+				</tr>
+			
+				<tr>
+					<td>1505</td>
+					<td>1505</td>
+					<td>706</td>
+					<td>1.5 </td>
+					<td>Natural Death</td>
+					<td>101</td>
+				</tr>
+			
+				<tr>
+					<td>1506</td>
+					<td>1506</td>
+					<td>93</td>
+					<td>1.5 </td>
+					<td>Scheduled Sacrifice</td>
+					<td>14</td>
+				</tr>
+			
+				<tr>
+					<td>1507</td>
+					<td>1507</td>
+					<td>96</td>
+					<td>1.5 </td>
+					<td>Scheduled Sacrifice</td>
+					<td>14</td>
+				</tr>
+			
+				<tr>
+					<td>1508</td>
+					<td>1508</td>
+					<td>93</td>
+					<td>1.5 </td>
+					<td>Scheduled Sacrifice</td>
+					<td>14</td>
+				</tr>
+			
+				<tr>
+					<td>1509</td>
+					<td>1509</td>
+					<td>93</td>
+					<td>1.5 </td>
+					<td>Scheduled Sacrifice</td>
+					<td>14</td>
+				</tr>
+			
+				<tr>
+					<td>1510</td>
+					<td>1510</td>
+					<td>711</td>
+					<td>1.5 </td>
+					<td>Moribund Sacrifice</td>
+					<td>102</td>
+				</tr>
+			
+				<tr>
+					<td>1511</td>
+					<td>1511</td>
+					<td>731</td>
+					<td>1.5 </td>
+					<td>Moribund Sacrifice</td>
+					<td>105</td>
+				</tr>
+			
+				<tr>
+					<td>1512</td>
+					<td>1512</td>
+					<td>738</td>
+					<td>1.5 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1513</td>
+					<td>1513</td>
+					<td>300</td>
+					<td>1.5 </td>
+					<td>Moribund Sacrifice</td>
+					<td>43</td>
+				</tr>
+			
+				<tr>
+					<td>1514</td>
+					<td>1514</td>
+					<td>737</td>
+					<td>1.5 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1515</td>
+					<td>1515</td>
+					<td>744</td>
+					<td>1.5 </td>
+					<td>Terminal Sacrifice</td>
+					<td>107</td>
+				</tr>
+			
+				<tr>
+					<td>1516</td>
+					<td>1516</td>
+					<td>407</td>
+					<td>1.5 </td>
+					<td>Natural Death</td>
+					<td>59</td>
+				</tr>
+			
+				<tr>
+					<td>1517</td>
+					<td>1517</td>
+					<td>741</td>
+					<td>1.5 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1518</td>
+					<td>1518</td>
+					<td>93</td>
+					<td>1.5 </td>
+					<td>Scheduled Sacrifice</td>
+					<td>14</td>
+				</tr>
+			
+				<tr>
+					<td>1519</td>
+					<td>1519</td>
+					<td>738</td>
+					<td>1.5 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1520</td>
+					<td>1520</td>
+					<td>739</td>
+					<td>1.5 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1522</td>
+					<td>1522</td>
+					<td>660</td>
+					<td>1.5 </td>
+					<td>Natural Death</td>
+					<td>95</td>
+				</tr>
+			
+				<tr>
+					<td>1523</td>
+					<td>1523</td>
+					<td>550</td>
+					<td>1.5 </td>
+					<td>Moribund Sacrifice</td>
+					<td>79</td>
+				</tr>
+			
+				<tr>
+					<td>1524</td>
+					<td>1524</td>
+					<td>623</td>
+					<td>1.5 </td>
+					<td>Natural Death</td>
+					<td>89</td>
+				</tr>
+			
+				<tr>
+					<td>1525</td>
+					<td>1525</td>
+					<td>741</td>
+					<td>1.5 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1526</td>
+					<td>1526</td>
+					<td>744</td>
+					<td>1.5 </td>
+					<td>Terminal Sacrifice</td>
+					<td>107</td>
+				</tr>
+			
+				<tr>
+					<td>1527</td>
+					<td>1527</td>
+					<td>464</td>
+					<td>1.5 </td>
+					<td>Moribund Sacrifice</td>
+					<td>67</td>
+				</tr>
+			
+				<tr>
+					<td>1528</td>
+					<td>1528</td>
+					<td>744</td>
+					<td>1.5 </td>
+					<td>Terminal Sacrifice</td>
+					<td>107</td>
+				</tr>
+			
+				<tr>
+					<td>1529</td>
+					<td>1529</td>
+					<td>319</td>
+					<td>1.5 </td>
+					<td>Moribund Sacrifice</td>
+					<td>46</td>
+				</tr>
+			
+				<tr>
+					<td>1530</td>
+					<td>1530</td>
+					<td>628</td>
+					<td>1.5 </td>
+					<td>Moribund Sacrifice</td>
+					<td>90</td>
+				</tr>
+			
+				<tr>
+					<td>1531</td>
+					<td>1531</td>
+					<td>744</td>
+					<td>1.5 </td>
+					<td>Terminal Sacrifice</td>
+					<td>107</td>
+				</tr>
+			
+				<tr>
+					<td>1532</td>
+					<td>1532</td>
+					<td>649</td>
+					<td>1.5 </td>
+					<td>Moribund Sacrifice</td>
+					<td>93</td>
+				</tr>
+			
+				<tr>
+					<td>1533</td>
+					<td>1533</td>
+					<td>739</td>
+					<td>1.5 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1534</td>
+					<td>1534</td>
+					<td>740</td>
+					<td>1.5 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1535</td>
+					<td>1535</td>
+					<td>676</td>
+					<td>1.5 </td>
+					<td>Natural Death</td>
+					<td>97</td>
+				</tr>
+			
+				<tr>
+					<td>1536</td>
+					<td>1536</td>
+					<td>532</td>
+					<td>1.5 </td>
+					<td>Moribund Sacrifice</td>
+					<td>76</td>
+				</tr>
+			
+				<tr>
+					<td>1537</td>
+					<td>1537</td>
+					<td>740</td>
+					<td>1.5 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1538</td>
+					<td>1538</td>
+					<td>93</td>
+					<td>1.5 </td>
+					<td>Scheduled Sacrifice</td>
+					<td>14</td>
+				</tr>
+			
+				<tr>
+					<td>1539</td>
+					<td>1539</td>
+					<td>96</td>
+					<td>1.5 </td>
+					<td>Scheduled Sacrifice</td>
+					<td>14</td>
+				</tr>
+			
+				<tr>
+					<td>1540</td>
+					<td>1540</td>
+					<td>699</td>
+					<td>1.5 </td>
+					<td>Moribund Sacrifice</td>
+					<td>100</td>
+				</tr>
+			
+				<tr>
+					<td>1541</td>
+					<td>1541</td>
+					<td>729</td>
+					<td>1.5 </td>
+					<td>Natural Death</td>
+					<td>105</td>
+				</tr>
+			
+				<tr>
+					<td>1542</td>
+					<td>1542</td>
+					<td>741</td>
+					<td>1.5 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1543</td>
+					<td>1543</td>
+					<td>300</td>
+					<td>1.5 </td>
+					<td>Moribund Sacrifice</td>
+					<td>43</td>
+				</tr>
+			
+				<tr>
+					<td>1544</td>
+					<td>1544</td>
+					<td>740</td>
+					<td>1.5 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1545</td>
+					<td>1545</td>
+					<td>711</td>
+					<td>1.5 </td>
+					<td>Moribund Sacrifice</td>
+					<td>102</td>
+				</tr>
+			
+				<tr>
+					<td>1546</td>
+					<td>1546</td>
+					<td>695</td>
+					<td>1.5 </td>
+					<td>Natural Death</td>
+					<td>100</td>
+				</tr>
+			
+				<tr>
+					<td>1547</td>
+					<td>1547</td>
+					<td>699</td>
+					<td>1.5 </td>
+					<td>Moribund Sacrifice</td>
+					<td>100</td>
+				</tr>
+			
+				<tr>
+					<td>1548</td>
+					<td>1548</td>
+					<td>656</td>
+					<td>1.5 </td>
+					<td>Moribund Sacrifice</td>
+					<td>94</td>
+				</tr>
+			
+				<tr>
+					<td>1549</td>
+					<td>1549</td>
+					<td>699</td>
+					<td>1.5 </td>
+					<td>Moribund Sacrifice</td>
+					<td>100</td>
+				</tr>
+			
+				<tr>
+					<td>1550</td>
+					<td>1550</td>
+					<td>737</td>
+					<td>1.5 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1656</td>
+					<td>1656</td>
+					<td>545</td>
+					<td>3.0 </td>
+					<td>Natural Death</td>
+					<td>78</td>
+				</tr>
+			
+				<tr>
+					<td>1657</td>
+					<td>1657</td>
+					<td>737</td>
+					<td>3.0 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1658</td>
+					<td>1658</td>
+					<td>738</td>
+					<td>3.0 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1659</td>
+					<td>1659</td>
+					<td>738</td>
+					<td>3.0 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1660</td>
+					<td>1660</td>
+					<td>745</td>
+					<td>3.0 </td>
+					<td>Terminal Sacrifice</td>
+					<td>107</td>
+				</tr>
+			
+				<tr>
+					<td>1661</td>
+					<td>1661</td>
+					<td>744</td>
+					<td>3.0 </td>
+					<td>Terminal Sacrifice</td>
+					<td>107</td>
+				</tr>
+			
+				<tr>
+					<td>1662</td>
+					<td>1662</td>
+					<td>744</td>
+					<td>3.0 </td>
+					<td>Terminal Sacrifice</td>
+					<td>107</td>
+				</tr>
+			
+				<tr>
+					<td>1663</td>
+					<td>1663</td>
+					<td>559</td>
+					<td>3.0 </td>
+					<td>Moribund Sacrifice</td>
+					<td>80</td>
+				</tr>
+			
+				<tr>
+					<td>1664</td>
+					<td>1664</td>
+					<td>93</td>
+					<td>3.0 </td>
+					<td>Scheduled Sacrifice</td>
+					<td>14</td>
+				</tr>
+			
+				<tr>
+					<td>1665</td>
+					<td>1665</td>
+					<td>531</td>
+					<td>3.0 </td>
+					<td>Moribund Sacrifice</td>
+					<td>76</td>
+				</tr>
+			
+				<tr>
+					<td>1666</td>
+					<td>1666</td>
+					<td>96</td>
+					<td>3.0 </td>
+					<td>Scheduled Sacrifice</td>
+					<td>14</td>
+				</tr>
+			
+				<tr>
+					<td>1667</td>
+					<td>1667</td>
+					<td>669</td>
+					<td>3.0 </td>
+					<td>Moribund Sacrifice</td>
+					<td>96</td>
+				</tr>
+			
+				<tr>
+					<td>1668</td>
+					<td>1668</td>
+					<td>631</td>
+					<td>3.0 </td>
+					<td>Natural Death</td>
+					<td>91</td>
+				</tr>
+			
+				<tr>
+					<td>1669</td>
+					<td>1669</td>
+					<td>93</td>
+					<td>3.0 </td>
+					<td>Scheduled Sacrifice</td>
+					<td>14</td>
+				</tr>
+			
+				<tr>
+					<td>1670</td>
+					<td>1670</td>
+					<td>739</td>
+					<td>3.0 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1671</td>
+					<td>1671</td>
+					<td>699</td>
+					<td>3.0 </td>
+					<td>Moribund Sacrifice</td>
+					<td>100</td>
+				</tr>
+			
+				<tr>
+					<td>1672</td>
+					<td>1672</td>
+					<td>503</td>
+					<td>3.0 </td>
+					<td>Moribund Sacrifice</td>
+					<td>72</td>
+				</tr>
+			
+				<tr>
+					<td>1673</td>
+					<td>1673</td>
+					<td>738</td>
+					<td>3.0 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1674</td>
+					<td>1674</td>
+					<td>741</td>
+					<td>3.0 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1675</td>
+					<td>1675</td>
+					<td>739</td>
+					<td>3.0 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1676</td>
+					<td>1676</td>
+					<td>739</td>
+					<td>3.0 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1677</td>
+					<td>1677</td>
+					<td>738</td>
+					<td>3.0 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1678</td>
+					<td>1678</td>
+					<td>744</td>
+					<td>3.0 </td>
+					<td>Terminal Sacrifice</td>
+					<td>107</td>
+				</tr>
+			
+				<tr>
+					<td>1679</td>
+					<td>1679</td>
+					<td>674</td>
+					<td>3.0 </td>
+					<td>Natural Death</td>
+					<td>97</td>
+				</tr>
+			
+				<tr>
+					<td>1680</td>
+					<td>1680</td>
+					<td>93</td>
+					<td>3.0 </td>
+					<td>Scheduled Sacrifice</td>
+					<td>14</td>
+				</tr>
+			
+				<tr>
+					<td>1681</td>
+					<td>1681</td>
+					<td>737</td>
+					<td>3.0 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1682</td>
+					<td>1682</td>
+					<td>741</td>
+					<td>3.0 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1683</td>
+					<td>1683</td>
+					<td>738</td>
+					<td>3.0 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1684</td>
+					<td>1684</td>
+					<td>738</td>
+					<td>3.0 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1685</td>
+					<td>1685</td>
+					<td>741</td>
+					<td>3.0 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1686</td>
+					<td>1686</td>
+					<td>739</td>
+					<td>3.0 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1687</td>
+					<td>1687</td>
+					<td>268</td>
+					<td>3.0 </td>
+					<td>Moribund Sacrifice</td>
+					<td>39</td>
+				</tr>
+			
+				<tr>
+					<td>1688</td>
+					<td>1688</td>
+					<td>96</td>
+					<td>3.0 </td>
+					<td>Scheduled Sacrifice</td>
+					<td>14</td>
+				</tr>
+			
+				<tr>
+					<td>1689</td>
+					<td>1689</td>
+					<td>707</td>
+					<td>3.0 </td>
+					<td>Natural Death</td>
+					<td>101</td>
+				</tr>
+			
+				<tr>
+					<td>1690</td>
+					<td>1690</td>
+					<td>745</td>
+					<td>3.0 </td>
+					<td>Terminal Sacrifice</td>
+					<td>107</td>
+				</tr>
+			
+				<tr>
+					<td>1691</td>
+					<td>1691</td>
+					<td>678</td>
+					<td>3.0 </td>
+					<td>Natural Death</td>
+					<td>97</td>
+				</tr>
+			
+				<tr>
+					<td>1692</td>
+					<td>1692</td>
+					<td>741</td>
+					<td>3.0 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1693</td>
+					<td>1693</td>
+					<td>740</td>
+					<td>3.0 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1694</td>
+					<td>1694</td>
+					<td>93</td>
+					<td>3.0 </td>
+					<td>Scheduled Sacrifice</td>
+					<td>14</td>
+				</tr>
+			
+				<tr>
+					<td>1695</td>
+					<td>1695</td>
+					<td>740</td>
+					<td>3.0 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1696</td>
+					<td>1696</td>
+					<td>739</td>
+					<td>3.0 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1697</td>
+					<td>1697</td>
+					<td>416</td>
+					<td>3.0 </td>
+					<td>Moribund Sacrifice</td>
+					<td>60</td>
+				</tr>
+			
+				<tr>
+					<td>1698</td>
+					<td>1698</td>
+					<td>740</td>
+					<td>3.0 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1699</td>
+					<td>1699</td>
+					<td>704</td>
+					<td>3.0 </td>
+					<td>Moribund Sacrifice</td>
+					<td>101</td>
+				</tr>
+			
+				<tr>
+					<td>1700</td>
+					<td>1700</td>
+					<td>663</td>
+					<td>3.0 </td>
+					<td>Natural Death</td>
+					<td>95</td>
+				</tr>
+			
+				<tr>
+					<td>1701</td>
+					<td>1701</td>
+					<td>740</td>
+					<td>3.0 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1702</td>
+					<td>1702</td>
+					<td>545</td>
+					<td>3.0 </td>
+					<td>Moribund Sacrifice</td>
+					<td>78</td>
+				</tr>
+			
+				<tr>
+					<td>1703</td>
+					<td>1703</td>
+					<td>643</td>
+					<td>3.0 </td>
+					<td>Moribund Sacrifice</td>
+					<td>92</td>
+				</tr>
+			
+				<tr>
+					<td>1704</td>
+					<td>1704</td>
+					<td>737</td>
+					<td>3.0 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1705</td>
+					<td>1705</td>
+					<td>96</td>
+					<td>3.0 </td>
+					<td>Scheduled Sacrifice</td>
+					<td>14</td>
+				</tr>
+			
+				<tr>
+					<td>1706</td>
+					<td>1706</td>
+					<td>702</td>
+					<td>3.0 </td>
+					<td>Moribund Sacrifice</td>
+					<td>101</td>
+				</tr>
+			
+				<tr>
+					<td>1707</td>
+					<td>1707</td>
+					<td>737</td>
+					<td>3.0 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1708</td>
+					<td>1708</td>
+					<td>728</td>
+					<td>3.0 </td>
+					<td>Moribund Sacrifice</td>
+					<td>104</td>
+				</tr>
+			
+				<tr>
+					<td>1709</td>
+					<td>1709</td>
+					<td>741</td>
+					<td>3.0 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1710</td>
+					<td>1710</td>
+					<td>417</td>
+					<td>3.0 </td>
+					<td>Natural Death</td>
+					<td>60</td>
+				</tr>
+			
+				<tr>
+					<td>1711</td>
+					<td>1711</td>
+					<td>724</td>
+					<td>3.0 </td>
+					<td>Moribund Sacrifice</td>
+					<td>104</td>
+				</tr>
+			
+				<tr>
+					<td>1712</td>
+					<td>1712</td>
+					<td>652</td>
+					<td>3.0 </td>
+					<td>Natural Death</td>
+					<td>94</td>
+				</tr>
+			
+				<tr>
+					<td>1713</td>
+					<td>1713</td>
+					<td>93</td>
+					<td>3.0 </td>
+					<td>Scheduled Sacrifice</td>
+					<td>14</td>
+				</tr>
+			
+				<tr>
+					<td>1714</td>
+					<td>1714</td>
+					<td>545</td>
+					<td>3.0 </td>
+					<td>Moribund Sacrifice</td>
+					<td>78</td>
+				</tr>
+			
+				<tr>
+					<td>1715</td>
+					<td>1715</td>
+					<td>516</td>
+					<td>3.0 </td>
+					<td>Moribund Sacrifice</td>
+					<td>74</td>
+				</tr>
+			
+				<tr>
+					<td>1716</td>
+					<td>1716</td>
+					<td>16</td>
+					<td>3.0 </td>
+					<td>Natural Death</td>
+					<td>3</td>
+				</tr>
+			
+				<tr>
+					<td>1717</td>
+					<td>1717</td>
+					<td>738</td>
+					<td>3.0 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1718</td>
+					<td>1718</td>
+					<td>656</td>
+					<td>3.0 </td>
+					<td>Moribund Sacrifice</td>
+					<td>94</td>
+				</tr>
+			
+				<tr>
+					<td>1719</td>
+					<td>1719</td>
+					<td>744</td>
+					<td>3.0 </td>
+					<td>Terminal Sacrifice</td>
+					<td>107</td>
+				</tr>
+			
+				<tr>
+					<td>1720</td>
+					<td>1720</td>
+					<td>737</td>
+					<td>3.0 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1721</td>
+					<td>1721</td>
+					<td>740</td>
+					<td>3.0 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1722</td>
+					<td>1722</td>
+					<td>711</td>
+					<td>3.0 </td>
+					<td>Moribund Sacrifice</td>
+					<td>102</td>
+				</tr>
+			
+				<tr>
+					<td>1723</td>
+					<td>1723</td>
+					<td>483</td>
+					<td>3.0 </td>
+					<td>Natural Death</td>
+					<td>69</td>
+				</tr>
+			
+				<tr>
+					<td>1724</td>
+					<td>1724</td>
+					<td>550</td>
+					<td>3.0 </td>
+					<td>Moribund Sacrifice</td>
+					<td>79</td>
+				</tr>
+			
+				<tr>
+					<td>1725</td>
+					<td>1725</td>
+					<td>744</td>
+					<td>3.0 </td>
+					<td>Terminal Sacrifice</td>
+					<td>107</td>
+				</tr>
+			
+				<tr>
+					<td>1726</td>
+					<td>1726</td>
+					<td>93</td>
+					<td>3.0 </td>
+					<td>Scheduled Sacrifice</td>
+					<td>14</td>
+				</tr>
+			
+				<tr>
+					<td>1727</td>
+					<td>1727</td>
+					<td>737</td>
+					<td>3.0 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1728</td>
+					<td>1728</td>
+					<td>96</td>
+					<td>3.0 </td>
+					<td>Scheduled Sacrifice</td>
+					<td>14</td>
+				</tr>
+			
+				<tr>
+					<td>1729</td>
+					<td>1729</td>
+					<td>648</td>
+					<td>3.0 </td>
+					<td>Natural Death</td>
+					<td>93</td>
+				</tr>
+			
+				<tr>
+					<td>1730</td>
+					<td>1730</td>
+					<td>740</td>
+					<td>3.0 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1731</td>
+					<td>1731</td>
+					<td>93</td>
+					<td>3.0 </td>
+					<td>Scheduled Sacrifice</td>
+					<td>14</td>
+				</tr>
+			
+				<tr>
+					<td>1732</td>
+					<td>1732</td>
+					<td>627</td>
+					<td>3.0 </td>
+					<td>Natural Death</td>
+					<td>90</td>
+				</tr>
+			
+				<tr>
+					<td>1733</td>
+					<td>1733</td>
+					<td>93</td>
+					<td>3.0 </td>
+					<td>Scheduled Sacrifice</td>
+					<td>14</td>
+				</tr>
+			
+				<tr>
+					<td>1734</td>
+					<td>1734</td>
+					<td>745</td>
+					<td>3.0 </td>
+					<td>Terminal Sacrifice</td>
+					<td>107</td>
+				</tr>
+			
+				<tr>
+					<td>1735</td>
+					<td>1735</td>
+					<td>598</td>
+					<td>3.0 </td>
+					<td>Moribund Sacrifice</td>
+					<td>86</td>
+				</tr>
+			
+				<tr>
+					<td>1736</td>
+					<td>1736</td>
+					<td>493</td>
+					<td>3.0 </td>
+					<td>Moribund Sacrifice</td>
+					<td>71</td>
+				</tr>
+			
+				<tr>
+					<td>1737</td>
+					<td>1737</td>
+					<td>740</td>
+					<td>3.0 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1738</td>
+					<td>1738</td>
+					<td>744</td>
+					<td>3.0 </td>
+					<td>Terminal Sacrifice</td>
+					<td>107</td>
+				</tr>
+			
+				<tr>
+					<td>1739</td>
+					<td>1739</td>
+					<td>711</td>
+					<td>3.0 </td>
+					<td>Moribund Sacrifice</td>
+					<td>102</td>
+				</tr>
+			
+				<tr>
+					<td>1740</td>
+					<td>1740</td>
+					<td>744</td>
+					<td>3.0 </td>
+					<td>Terminal Sacrifice</td>
+					<td>107</td>
+				</tr>
+			
+				<tr>
+					<td>1741</td>
+					<td>1741</td>
+					<td>739</td>
+					<td>3.0 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1742</td>
+					<td>1742</td>
+					<td>662</td>
+					<td>3.0 </td>
+					<td>Moribund Sacrifice</td>
+					<td>95</td>
+				</tr>
+			
+				<tr>
+					<td>1743</td>
+					<td>1743</td>
+					<td>745</td>
+					<td>3.0 </td>
+					<td>Terminal Sacrifice</td>
+					<td>107</td>
+				</tr>
+			
+				<tr>
+					<td>1744</td>
+					<td>1744</td>
+					<td>739</td>
+					<td>3.0 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1745</td>
+					<td>1745</td>
+					<td>531</td>
+					<td>3.0 </td>
+					<td>Moribund Sacrifice</td>
+					<td>76</td>
+				</tr>
+			
+				<tr>
+					<td>1746</td>
+					<td>1746</td>
+					<td>493</td>
+					<td>3.0 </td>
+					<td>Moribund Sacrifice</td>
+					<td>71</td>
+				</tr>
+			
+				<tr>
+					<td>1747</td>
+					<td>1747</td>
+					<td>464</td>
+					<td>3.0 </td>
+					<td>Moribund Sacrifice</td>
+					<td>67</td>
+				</tr>
+			
+				<tr>
+					<td>1748</td>
+					<td>1748</td>
+					<td>93</td>
+					<td>3.0 </td>
+					<td>Scheduled Sacrifice</td>
+					<td>14</td>
+				</tr>
+			
+				<tr>
+					<td>1749</td>
+					<td>1749</td>
+					<td>740</td>
+					<td>3.0 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1750</td>
+					<td>1750</td>
+					<td>93</td>
+					<td>3.0 </td>
+					<td>Scheduled Sacrifice</td>
+					<td>14</td>
+				</tr>
+			
+				<tr>
+					<td>1751</td>
+					<td>1751</td>
+					<td>711</td>
+					<td>3.0 </td>
+					<td>Moribund Sacrifice</td>
+					<td>102</td>
+				</tr>
+			
+				<tr>
+					<td>1752</td>
+					<td>1752</td>
+					<td>744</td>
+					<td>3.0 </td>
+					<td>Terminal Sacrifice</td>
+					<td>107</td>
+				</tr>
+			
+				<tr>
+					<td>1753</td>
+					<td>1753</td>
+					<td>96</td>
+					<td>3.0 </td>
+					<td>Scheduled Sacrifice</td>
+					<td>14</td>
+				</tr>
+			
+				<tr>
+					<td>1754</td>
+					<td>1754</td>
+					<td>741</td>
+					<td>3.0 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1755</td>
+					<td>1755</td>
+					<td>738</td>
+					<td>3.0 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1756</td>
+					<td>1756</td>
+					<td>739</td>
+					<td>3.0 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1757</td>
+					<td>1757</td>
+					<td>493</td>
+					<td>3.0 </td>
+					<td>Moribund Sacrifice</td>
+					<td>71</td>
+				</tr>
+			
+				<tr>
+					<td>1758</td>
+					<td>1758</td>
+					<td>741</td>
+					<td>3.0 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1759</td>
+					<td>1759</td>
+					<td>450</td>
+					<td>3.0 </td>
+					<td>Moribund Sacrifice</td>
+					<td>65</td>
+				</tr>
+			
+				<tr>
+					<td>1760</td>
+					<td>1760</td>
+					<td>741</td>
+					<td>3.0 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1866</td>
+					<td>1866</td>
+					<td>738</td>
+					<td>6.0 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1867</td>
+					<td>1867</td>
+					<td>696</td>
+					<td>6.0 </td>
+					<td>Natural Death</td>
+					<td>100</td>
+				</tr>
+			
+				<tr>
+					<td>1868</td>
+					<td>1868</td>
+					<td>744</td>
+					<td>6.0 </td>
+					<td>Terminal Sacrifice</td>
+					<td>107</td>
+				</tr>
+			
+				<tr>
+					<td>1869</td>
+					<td>1869</td>
+					<td>740</td>
+					<td>6.0 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1870</td>
+					<td>1870</td>
+					<td>737</td>
+					<td>6.0 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1871</td>
+					<td>1871</td>
+					<td>739</td>
+					<td>6.0 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1872</td>
+					<td>1872</td>
+					<td>740</td>
+					<td>6.0 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1873</td>
+					<td>1873</td>
+					<td>638</td>
+					<td>6.0 </td>
+					<td>Natural Death</td>
+					<td>92</td>
+				</tr>
+			
+				<tr>
+					<td>1874</td>
+					<td>1874</td>
+					<td>737</td>
+					<td>6.0 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1875</td>
+					<td>1875</td>
+					<td>96</td>
+					<td>6.0 </td>
+					<td>Scheduled Sacrifice</td>
+					<td>14</td>
+				</tr>
+			
+				<tr>
+					<td>1876</td>
+					<td>1876</td>
+					<td>651</td>
+					<td>6.0 </td>
+					<td>Natural Death</td>
+					<td>93</td>
+				</tr>
+			
+				<tr>
+					<td>1877</td>
+					<td>1877</td>
+					<td>96</td>
+					<td>6.0 </td>
+					<td>Scheduled Sacrifice</td>
+					<td>14</td>
+				</tr>
+			
+				<tr>
+					<td>1878</td>
+					<td>1878</td>
+					<td>741</td>
+					<td>6.0 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1879</td>
+					<td>1879</td>
+					<td>593</td>
+					<td>6.0 </td>
+					<td>Moribund Sacrifice</td>
+					<td>85</td>
+				</tr>
+			
+				<tr>
+					<td>1880</td>
+					<td>1880</td>
+					<td>741</td>
+					<td>6.0 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1881</td>
+					<td>1881</td>
+					<td>744</td>
+					<td>6.0 </td>
+					<td>Terminal Sacrifice</td>
+					<td>107</td>
+				</tr>
+			
+				<tr>
+					<td>1882</td>
+					<td>1882</td>
+					<td>93</td>
+					<td>6.0 </td>
+					<td>Scheduled Sacrifice</td>
+					<td>14</td>
+				</tr>
+			
+				<tr>
+					<td>1883</td>
+					<td>1883</td>
+					<td>93</td>
+					<td>6.0 </td>
+					<td>Scheduled Sacrifice</td>
+					<td>14</td>
+				</tr>
+			
+				<tr>
+					<td>1884</td>
+					<td>1884</td>
+					<td>738</td>
+					<td>6.0 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1885</td>
+					<td>1885</td>
+					<td>740</td>
+					<td>6.0 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1886</td>
+					<td>1886</td>
+					<td>557</td>
+					<td>6.0 </td>
+					<td>Moribund Sacrifice</td>
+					<td>80</td>
+				</tr>
+			
+				<tr>
+					<td>1887</td>
+					<td>1887</td>
+					<td>93</td>
+					<td>6.0 </td>
+					<td>Scheduled Sacrifice</td>
+					<td>14</td>
+				</tr>
+			
+				<tr>
+					<td>1888</td>
+					<td>1888</td>
+					<td>737</td>
+					<td>6.0 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1889</td>
+					<td>1889</td>
+					<td>745</td>
+					<td>6.0 </td>
+					<td>Terminal Sacrifice</td>
+					<td>107</td>
+				</tr>
+			
+				<tr>
+					<td>1890</td>
+					<td>1890</td>
+					<td>739</td>
+					<td>6.0 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1891</td>
+					<td>1891</td>
+					<td>740</td>
+					<td>6.0 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1892</td>
+					<td>1892</td>
+					<td>579</td>
+					<td>6.0 </td>
+					<td>Moribund Sacrifice</td>
+					<td>83</td>
+				</tr>
+			
+				<tr>
+					<td>1893</td>
+					<td>1893</td>
+					<td>626</td>
+					<td>6.0 </td>
+					<td>Moribund Sacrifice</td>
+					<td>90</td>
+				</tr>
+			
+				<tr>
+					<td>1894</td>
+					<td>1894</td>
+					<td>740</td>
+					<td>6.0 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1895</td>
+					<td>1895</td>
+					<td>522</td>
+					<td>6.0 </td>
+					<td>Natural Death</td>
+					<td>75</td>
+				</tr>
+			
+				<tr>
+					<td>1896</td>
+					<td>1896</td>
+					<td>702</td>
+					<td>6.0 </td>
+					<td>Moribund Sacrifice</td>
+					<td>101</td>
+				</tr>
+			
+				<tr>
+					<td>1897</td>
+					<td>1897</td>
+					<td>739</td>
+					<td>6.0 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1898</td>
+					<td>1898</td>
+					<td>744</td>
+					<td>6.0 </td>
+					<td>Terminal Sacrifice</td>
+					<td>107</td>
+				</tr>
+			
+				<tr>
+					<td>1899</td>
+					<td>1899</td>
+					<td>711</td>
+					<td>6.0 </td>
+					<td>Moribund Sacrifice</td>
+					<td>102</td>
+				</tr>
+			
+				<tr>
+					<td>1900</td>
+					<td>1900</td>
+					<td>93</td>
+					<td>6.0 </td>
+					<td>Scheduled Sacrifice</td>
+					<td>14</td>
+				</tr>
+			
+				<tr>
+					<td>1901</td>
+					<td>1901</td>
+					<td>744</td>
+					<td>6.0 </td>
+					<td>Terminal Sacrifice</td>
+					<td>107</td>
+				</tr>
+			
+				<tr>
+					<td>1902</td>
+					<td>1902</td>
+					<td>744</td>
+					<td>6.0 </td>
+					<td>Terminal Sacrifice</td>
+					<td>107</td>
+				</tr>
+			
+				<tr>
+					<td>1903</td>
+					<td>1903</td>
+					<td>737</td>
+					<td>6.0 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1904</td>
+					<td>1904</td>
+					<td>96</td>
+					<td>6.0 </td>
+					<td>Scheduled Sacrifice</td>
+					<td>14</td>
+				</tr>
+			
+				<tr>
+					<td>1905</td>
+					<td>1905</td>
+					<td>738</td>
+					<td>6.0 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1906</td>
+					<td>1906</td>
+					<td>744</td>
+					<td>6.0 </td>
+					<td>Terminal Sacrifice</td>
+					<td>107</td>
+				</tr>
+			
+				<tr>
+					<td>1907</td>
+					<td>1907</td>
+					<td>587</td>
+					<td>6.0 </td>
+					<td>Natural Death</td>
+					<td>84</td>
+				</tr>
+			
+				<tr>
+					<td>1908</td>
+					<td>1908</td>
+					<td>738</td>
+					<td>6.0 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1909</td>
+					<td>1909</td>
+					<td>93</td>
+					<td>6.0 </td>
+					<td>Scheduled Sacrifice</td>
+					<td>14</td>
+				</tr>
+			
+				<tr>
+					<td>1910</td>
+					<td>1910</td>
+					<td>739</td>
+					<td>6.0 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1911</td>
+					<td>1911</td>
+					<td>93</td>
+					<td>6.0 </td>
+					<td>Scheduled Sacrifice</td>
+					<td>14</td>
+				</tr>
+			
+				<tr>
+					<td>1912</td>
+					<td>1912</td>
+					<td>560</td>
+					<td>6.0 </td>
+					<td>Natural Death</td>
+					<td>80</td>
+				</tr>
+			
+				<tr>
+					<td>1913</td>
+					<td>1913</td>
+					<td>674</td>
+					<td>6.0 </td>
+					<td>Natural Death</td>
+					<td>97</td>
+				</tr>
+			
+				<tr>
+					<td>1914</td>
+					<td>1914</td>
+					<td>741</td>
+					<td>6.0 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1915</td>
+					<td>1915</td>
+					<td>737</td>
+					<td>6.0 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1916</td>
+					<td>1916</td>
+					<td>717</td>
+					<td>6.0 </td>
+					<td>Natural Death</td>
+					<td>103</td>
+				</tr>
+			
+				<tr>
+					<td>1917</td>
+					<td>1917</td>
+					<td>738</td>
+					<td>6.0 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1918</td>
+					<td>1918</td>
+					<td>93</td>
+					<td>6.0 </td>
+					<td>Scheduled Sacrifice</td>
+					<td>14</td>
+				</tr>
+			
+				<tr>
+					<td>1919</td>
+					<td>1919</td>
+					<td>740</td>
+					<td>6.0 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1920</td>
+					<td>1920</td>
+					<td>550</td>
+					<td>6.0 </td>
+					<td>Moribund Sacrifice</td>
+					<td>79</td>
+				</tr>
+			
+				<tr>
+					<td>1921</td>
+					<td>1921</td>
+					<td>741</td>
+					<td>6.0 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1922</td>
+					<td>1922</td>
+					<td>737</td>
+					<td>6.0 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1923</td>
+					<td>1923</td>
+					<td>739</td>
+					<td>6.0 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1924</td>
+					<td>1924</td>
+					<td>740</td>
+					<td>6.0 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1925</td>
+					<td>1925</td>
+					<td>741</td>
+					<td>6.0 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1926</td>
+					<td>1926</td>
+					<td>738</td>
+					<td>6.0 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1927</td>
+					<td>1927</td>
+					<td>740</td>
+					<td>6.0 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1928</td>
+					<td>1928</td>
+					<td>739</td>
+					<td>6.0 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1929</td>
+					<td>1929</td>
+					<td>744</td>
+					<td>6.0 </td>
+					<td>Terminal Sacrifice</td>
+					<td>107</td>
+				</tr>
+			
+				<tr>
+					<td>1930</td>
+					<td>1930</td>
+					<td>744</td>
+					<td>6.0 </td>
+					<td>Terminal Sacrifice</td>
+					<td>107</td>
+				</tr>
+			
+				<tr>
+					<td>1931</td>
+					<td>1931</td>
+					<td>536</td>
+					<td>6.0 </td>
+					<td>Natural Death</td>
+					<td>77</td>
+				</tr>
+			
+				<tr>
+					<td>1932</td>
+					<td>1932</td>
+					<td>738</td>
+					<td>6.0 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1933</td>
+					<td>1933</td>
+					<td>741</td>
+					<td>6.0 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1934</td>
+					<td>1934</td>
+					<td>741</td>
+					<td>6.0 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1935</td>
+					<td>1935</td>
+					<td>741</td>
+					<td>6.0 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1936</td>
+					<td>1936</td>
+					<td>93</td>
+					<td>6.0 </td>
+					<td>Scheduled Sacrifice</td>
+					<td>14</td>
+				</tr>
+			
+				<tr>
+					<td>1937</td>
+					<td>1937</td>
+					<td>305</td>
+					<td>6.0 </td>
+					<td>Moribund Sacrifice</td>
+					<td>44</td>
+				</tr>
+			
+				<tr>
+					<td>1938</td>
+					<td>1938</td>
+					<td>745</td>
+					<td>6.0 </td>
+					<td>Terminal Sacrifice</td>
+					<td>107</td>
+				</tr>
+			
+				<tr>
+					<td>1939</td>
+					<td>1939</td>
+					<td>744</td>
+					<td>6.0 </td>
+					<td>Terminal Sacrifice</td>
+					<td>107</td>
+				</tr>
+			
+				<tr>
+					<td>1940</td>
+					<td>1940</td>
+					<td>739</td>
+					<td>6.0 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1941</td>
+					<td>1941</td>
+					<td>96</td>
+					<td>6.0 </td>
+					<td>Scheduled Sacrifice</td>
+					<td>14</td>
+				</tr>
+			
+				<tr>
+					<td>1942</td>
+					<td>1942</td>
+					<td>678</td>
+					<td>6.0 </td>
+					<td>Natural Death</td>
+					<td>97</td>
+				</tr>
+			
+				<tr>
+					<td>1943</td>
+					<td>1943</td>
+					<td>745</td>
+					<td>6.0 </td>
+					<td>Terminal Sacrifice</td>
+					<td>107</td>
+				</tr>
+			
+				<tr>
+					<td>1944</td>
+					<td>1944</td>
+					<td>744</td>
+					<td>6.0 </td>
+					<td>Terminal Sacrifice</td>
+					<td>107</td>
+				</tr>
+			
+				<tr>
+					<td>1945</td>
+					<td>1945</td>
+					<td>492</td>
+					<td>6.0 </td>
+					<td>Moribund Sacrifice</td>
+					<td>71</td>
+				</tr>
+			
+				<tr>
+					<td>1946</td>
+					<td>1946</td>
+					<td>738</td>
+					<td>6.0 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1947</td>
+					<td>1947</td>
+					<td>668</td>
+					<td>6.0 </td>
+					<td>Moribund Sacrifice</td>
+					<td>96</td>
+				</tr>
+			
+				<tr>
+					<td>1948</td>
+					<td>1948</td>
+					<td>740</td>
+					<td>6.0 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1949</td>
+					<td>1949</td>
+					<td>663</td>
+					<td>6.0 </td>
+					<td>Natural Death</td>
+					<td>95</td>
+				</tr>
+			
+				<tr>
+					<td>1950</td>
+					<td>1950</td>
+					<td>96</td>
+					<td>6.0 </td>
+					<td>Scheduled Sacrifice</td>
+					<td>14</td>
+				</tr>
+			
+				<tr>
+					<td>1951</td>
+					<td>1951</td>
+					<td>741</td>
+					<td>6.0 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1952</td>
+					<td>1952</td>
+					<td>739</td>
+					<td>6.0 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1953</td>
+					<td>1953</td>
+					<td>695</td>
+					<td>6.0 </td>
+					<td>Natural Death</td>
+					<td>100</td>
+				</tr>
+			
+				<tr>
+					<td>1954</td>
+					<td>1954</td>
+					<td>669</td>
+					<td>6.0 </td>
+					<td>Moribund Sacrifice</td>
+					<td>96</td>
+				</tr>
+			
+				<tr>
+					<td>1955</td>
+					<td>1955</td>
+					<td>739</td>
+					<td>6.0 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1956</td>
+					<td>1956</td>
+					<td>741</td>
+					<td>6.0 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1957</td>
+					<td>1957</td>
+					<td>93</td>
+					<td>6.0 </td>
+					<td>Scheduled Sacrifice</td>
+					<td>14</td>
+				</tr>
+			
+				<tr>
+					<td>1958</td>
+					<td>1958</td>
+					<td>738</td>
+					<td>6.0 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1959</td>
+					<td>1959</td>
+					<td>711</td>
+					<td>6.0 </td>
+					<td>Moribund Sacrifice</td>
+					<td>102</td>
+				</tr>
+			
+				<tr>
+					<td>1960</td>
+					<td>1960</td>
+					<td>702</td>
+					<td>6.0 </td>
+					<td>Moribund Sacrifice</td>
+					<td>101</td>
+				</tr>
+			
+				<tr>
+					<td>1961</td>
+					<td>1961</td>
+					<td>720</td>
+					<td>6.0 </td>
+					<td>Moribund Sacrifice</td>
+					<td>103</td>
+				</tr>
+			
+				<tr>
+					<td>1962</td>
+					<td>1962</td>
+					<td>740</td>
+					<td>6.0 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1963</td>
+					<td>1963</td>
+					<td>694</td>
+					<td>6.0 </td>
+					<td>Moribund Sacrifice</td>
+					<td>100</td>
+				</tr>
+			
+				<tr>
+					<td>1964</td>
+					<td>1964</td>
+					<td>738</td>
+					<td>6.0 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1965</td>
+					<td>1965</td>
+					<td>739</td>
+					<td>6.0 </td>
+					<td>Terminal Sacrifice</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>1966</td>
+					<td>1966</td>
+					<td>93</td>
+					<td>6.0 </td>
+					<td>Scheduled Sacrifice</td>
+					<td>14</td>
+				</tr>
+			
+				<tr>
+					<td>1967</td>
+					<td>1967</td>
+					<td>633</td>
+					<td>6.0 </td>
+					<td>Natural Death</td>
+					<td>91</td>
+				</tr>
+			
+				<tr>
+					<td>1968</td>
+					<td>1968</td>
+					<td>579</td>
+					<td>6.0 </td>
+					<td>Moribund Sacrifice</td>
+					<td>83</td>
+				</tr>
+			
+				<tr>
+					<td>1969</td>
+					<td>1969</td>
+					<td>745</td>
+					<td>6.0 </td>
+					<td>Terminal Sacrifice</td>
+					<td>107</td>
+				</tr>
+			
+				<tr>
+					<td>1970</td>
+					<td>1970</td>
+					<td>745</td>
+					<td>6.0 </td>
+					<td>Terminal Sacrifice</td>
+					<td>107</td>
+				</tr>
+			
+		</tbody>
+	</table>
+
+	</body>
+</html>
